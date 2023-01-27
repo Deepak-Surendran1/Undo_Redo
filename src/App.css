@@ -1,0 +1,39 @@
+
+body{
+  margin : 0px;
+  margin:0;
+}
+
+.container{
+
+  height : 100vh;
+  background-color:grey;
+}
+.userclick{
+  position:absolute;
+  background-color : black;
+  width:10px;
+  height:10px;
+  border-radius:50px;
+}
+
+.button-div{
+  float:left;
+
+}
+.button-div button{
+  background-color : green;
+  padding : 10px 15px; 
+  margin-top:5px;
+  border : none;
+  border-radius : 3px;
+  color : white;
+  font-size: 20px
+  box-shadow: 10px 5px 5px red;
+}
+.button-div .first-button{
+  margin-right:10px;
+ 
+  margin-left : 5px;
+}
+
