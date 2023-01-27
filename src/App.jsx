@@ -10,6 +10,7 @@ export default function App() {
     // console.log(points)
   }
 
+
   const handleUndo = () => {
     let newPoints = [...points]
     let pp = newPoints.pop()
